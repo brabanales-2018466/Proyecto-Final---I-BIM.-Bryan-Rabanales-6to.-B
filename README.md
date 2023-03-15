@@ -1,4 +1,5 @@
-# CONTROL DE VENTAS ONLINE
+# Proyecto venta online
+
 Creacion de un control de ventas online utilizando javaScript, node js y con conexión a mongoDB.
 
 Renombrar el archivo example.env a .env, esto es con la intención de
